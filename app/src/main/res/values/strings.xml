@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="deleted_all">Deleted All</string>
+    <string name="delete_all">Delete All Table</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="save">Save</string>
+    <string name="movies">Movies</string>
+    <string name="error">Something Wrong !</string>
+    <string name="done">DONE !</string>
+    <string name="alert_message">You are going to delete all table!!</string>
+    <string name="alert_message_item">You are going to delete the movie !</string>
+    <string name="alert_title">Delete the Table?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+</resources>

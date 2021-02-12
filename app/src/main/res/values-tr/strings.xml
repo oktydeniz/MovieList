@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="deleted_all">Hepsi Silindi</string>
+    <string name="delete_all">Tüm Tabloyu sil</string>
+    <string name="add_movie">Film Ekle</string>
+    <string name="movie_name">Filmin İsmi</string>
+    <string name="save">Kaydet</string>
+    <string name="movies">Filmler</string>
+    <string name="error">Bir şeyler ters gitti !</string>
+    <string name="done">Tamamlandı</string>
+    <string name="alert_message">Tüm tabloyu sileceksin !!</string>
+    <string name="alert_message_item">Film kaydını sileceksin !</string>
+    <string name="alert_title">Tablo silinsin mi ?</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">Vazgeç</string>
+    <string name="update">Güncelle</string>
+</resources>
